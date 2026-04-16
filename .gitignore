@@ -1,0 +1,8 @@
+venv/
+results/
+__pycache__/
+*.pyc
+.robot.rc
+output.xml
+log.html
+report.html
